@@ -83,3 +83,9 @@ Action taken: Removed “Shopping Helper”
 Result: Browser runs faster, fewer pop-ups observed
 
 Learning: Malicious extensions can steal data or slow performance; only keep trusted ones.
+
+<img width="1786" height="605" alt="image" src="https://github.com/user-attachments/assets/1cff3dff-74df-45a1-b8ab-afe80b6ebfa5" />
+<img width="1876" height="863" alt="image" src="https://github.com/user-attachments/assets/195f5362-3810-4680-af72-13063b66f4d5" />
+
+
+ADDED A EXTENSION OF BRAVE BROWSER AND CHROME 
